@@ -1,3 +1,5 @@
 This is a basic text file for my learning purposes.
+This is an edit on branch 1.
 Some text to edit/update this file.
 Some more text to edit/update this file.
+This is an edit on branch 1.
