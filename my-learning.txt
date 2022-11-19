@@ -3,3 +3,4 @@ This is an edit on branch 1.
 Some text to edit/update this file.
 Some more text to edit/update this file.
 This is an edit on branch 1.
+This edit was done on the master branch.
