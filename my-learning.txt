@@ -6,3 +6,4 @@ Some more text to edit/update this file.
 This is an edit on branch 1.
 This is from branch 2.
 This edit was done on the master branch.
+This text text comes from branch 3.
